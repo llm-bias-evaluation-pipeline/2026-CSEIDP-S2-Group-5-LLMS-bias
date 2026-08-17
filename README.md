@@ -1,3 +1,8 @@
+
+![Silence of the LLMs banner](./assets/group5_background_v2.png)
+
+
+
 # Silence of the LLMs?
 
 **Evaluating Multilingual US and Chinese LLM Responses to Politically Sensitive Historical Events**
