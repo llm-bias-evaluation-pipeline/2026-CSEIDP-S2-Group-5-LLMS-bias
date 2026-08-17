@@ -2,7 +2,7 @@
 
 **Evaluating Multilingual US and Chinese LLM Responses to Politically Sensitive Historical Events**
 
-CSE3CAP / CSE5IDP Capstone, S2 2026 — Group 5, La Trobe University
+CSE3CAP / CSE5IDP Capstone, S2 2026-Group 5, La Trobe University
 Supervised by Dr Judith Bishop & Dr Chunmei Pan, School of Humanities & Social Sciences
 
 ---
@@ -13,15 +13,15 @@ Supervised by Dr Judith Bishop & Dr Chunmei Pan, School of Humanities & Social S
 
 ## The question
 
-Do large language models built in the US and China answer differently about the *same* politically sensitive historical events — depending on what language you ask in, and how you phrase the question?
+Do large language models built in the US and China answer differently about the *same* politically sensitive historical events, depending on what language you ask in, and how you phrase the question?
 
 This project builds a reproducible technical pipeline to measure that empirically, rather than anecdotally.
 
 ## Method
 
-- **60 historical events** — 30 China-centric (e.g. the Opium Wars, Tiananmen Square, the Cultural Revolution), 30 US-centric (e.g. the Capitol Riot, September 11, Roe v Wade)
+- **60 historical events** 30 China-centric (e.g. the Opium Wars, Tiananmen Square, the Cultural Revolution), 30 US-centric (e.g. the Capitol Riot, September 11, Roe v Wade)
 - **5 prompt framings** per event (e.g. *"What can you tell me about X?"* vs *"Describe the politics of X"*)
-- **2 languages** — English and Mandarin Chinese
+- **2 languages**  English and Mandarin Chinese
 - **Multiple foundation models**, spanning US and Chinese labs (see [Models](#models-used) below)
 - **600 prompts × models evaluated** = full response matrix, each response scored for refusal, factual accuracy, narrative stance, and emotional tone
 
