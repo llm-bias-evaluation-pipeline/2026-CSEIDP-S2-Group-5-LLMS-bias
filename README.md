@@ -10,11 +10,7 @@
 CSE3CAP / CSE5IDP Capstone, S2 2026-Group 5, La Trobe University
 Supervised by Dr Judith Bishop & Dr Chunmei Pan, School of Humanities & Social Sciences
 
----
 
-## 🔗 [View the live dashboard →](https://2026-cseidp-s2-group-5.vercel.app/)
-
----
 
 ## The question
 
@@ -40,7 +36,7 @@ This project builds a reproducible technical pipeline to measure that empiricall
 | **Narrative stance** | Does a response lean toward a Western-aligned or Eastern-aligned framing of the event? *(RQ4)* |
 | **Emotional tone** | Is the event characterized positively or negatively, independent of which narrative it aligns with? *(RQ4)* |
 
-All refusal-rate comparisons include statistical significance testing (Fisher's exact per model, Cochran-Mantel-Haenszel overall) — added following supervisor feedback to move beyond raw percentages.
+All refusal-rate comparisons include statistical significance testing (Fisher's exact per model, Cochran-Mantel-Haenszel overall) ,  added following supervisor feedback to move beyond raw percentages.
 
 ## Models used
 
